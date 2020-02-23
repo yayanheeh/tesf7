@@ -68,6 +68,9 @@ var routes = [
     path: '/accordion/',
     url: './pages/accordion.html',
   },
+    path: '/yayan/',
+    url: './pages/yayan.html',
+  },
   {
     path: '/action-sheet/',
     componentUrl: './pages/action-sheet.html',
